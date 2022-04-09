@@ -8,8 +8,14 @@
 
 Student at **[PodCodar](https://github.com/podcodar)**<br/>
 
-Lerning **React**
+Lerning **React** </br>
 
+<!---
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_16x16.png">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css_16x16.png">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_16x16.png">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript_16x16.png">
+-->
 
 </p>
 
@@ -17,8 +23,11 @@ Lerning **React**
 <p>
 <a href="https://www.linkedin.com/in/vinicius-zenha-817297226/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-zenha-817297226/" /></a>
+
   <a href="https://github.com/vzsoares" alt="GitHub">
   <img src="https://img.shields.io/badge/-GitHub-f8efd4?style=flat-square&logo=GitHub&logoColor=black&link=https://github.com/vzsoares" /></a>
+
    <a href="vinicius.zenha@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=vinicius.zenha@gmail.com" /></a> 
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=vinicius.zenha@gmail.com" /></a>
+ 
   </p>
