@@ -106,6 +106,6 @@ Student at **[PodCodar](https://github.com/podcodar)**<br/>
   <a href="https://github.com/vzsoares" alt="GitHub" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-f8efd4?style=flat-square&logo=GitHub&logoColor=black&link=https://github.com/vzsoares" /></a>
 
-  <a href="vinicius.zenha@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:vinicius.zenha@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=vinicius.zenha@gmail.com" /></a>
  </p>
