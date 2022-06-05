@@ -50,14 +50,14 @@ Student at **[PodCodar](https://github.com/podcodar)**<br/>
       height="30"
     />
   </a>
-  <a href="https://redux.js.org" target="_blank">
+<!--   <a href="https://redux.js.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
       width="30"
       height="30"
     />
-  </a>
+  </a> -->
   <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
