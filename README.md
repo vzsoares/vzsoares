@@ -6,7 +6,7 @@
 
 <p aling='left'>
 
-Student at **[PodCodar](https://github.com/podcodar)**<br/>
+Software Developer at **[PodCodar](https://github.com/podcodar)**<br/>
 
 #### Languages and Tools: </br>
 
