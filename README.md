@@ -60,7 +60,7 @@ Software Developer at **[PodCodar](https://github.com/podcodar)**<br/>
   </a> -->
   <a href="https://nextjs.org/" target="_blank">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
+      src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg"
       alt="nextjs"
       width="30"
       height="30"
