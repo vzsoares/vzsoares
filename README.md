@@ -1,13 +1,12 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=vzsoares&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&include_all_commits=true&cache_seconds=2300">
 
-### Welcome to my profile,please fell free to contribute,fork and open issues!
+### Hi there!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ViniciusZenha&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p aling='left'>
 
 Software Developer 
-<!-- at **[PodCodar](https://github.com/podcodar)**<br/> -->
 
 #### Languages and Tools: </br>
 
@@ -51,14 +50,14 @@ Software Developer
       height="30"
     />
   </a>
-<!--   <a href="https://redux.js.org" target="_blank">
+<a href="https://redux.js.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
       width="30"
       height="30"
     />
-  </a> -->
+  </a>
   <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg"
