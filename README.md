@@ -98,6 +98,14 @@ Software Developer
       height="30"
     />
   </a>
+  <a href="https://go.dev/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
+      alt="python"
+      width="30"
+      height="30"
+    />
+  </a>  
 <hr>
 <p>
   <a href="https://www.linkedin.com/in/vinicius-zenha-817297226/" alt="Linkedin" target="_blank">
