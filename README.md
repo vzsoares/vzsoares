@@ -6,7 +6,7 @@
   <img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/16923160?style=flat&logo=stackoverflow&label=reputation&color=orange">
 </p>
 
-- 🎃 Currentyl working at [**ApprovaSA**](https://www.linkedin.com/company/approvaoficial/)
+- 🎃 Currently working at [**ApprovaSA**](https://www.linkedin.com/company/approvaoficial/) and majoring in Computer Software Engineering at [Estacio](https://estacio.br/)
 
 - 👾 Have I mentioned that I use Vim?
 
