@@ -41,7 +41,7 @@
 
 [![Front-end](https://skillicons.dev/icons?i=react,next,tailwind,jest)]()
 
-[![Back-end](https://skillicons.dev/icons?i=nodejs,aws,terraform,ansible,docker)]()
+[![Back-end](https://skillicons.dev/icons?i=nodejs,aws,terraform,fastapi,ansible,docker)]()
 
 [![Storage](https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongo,sqlite)]()
 
