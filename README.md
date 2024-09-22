@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vzsoares&label=Profile%20views&color=0e75b6&style=flat" alt="vzsoares" />
+  <img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/16923160?style=flat&logo=stackoverflow&label=reputation&color=orange">
 </p>
 
 <details align="center">
