@@ -3,7 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vzsoares&label=Profile%20views&color=0e75b6&style=flat" alt="vzsoares" />
-  <img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/16923160?style=flat&logo=stackoverflow&label=reputation&color=orange">
+  <a href="https://stackoverflow.com/users/16923160/visualvim">
+    <img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/16923160?style=flat&logo=stackoverflow&label=reputation&color=orange">
+  </a>
 </p>
 
 - 🎃 Currently working at [**ApprovaSA**](https://www.linkedin.com/company/approvaoficial/) and majoring in Computer Software Engineering at [Estacio](https://estacio.br/)
