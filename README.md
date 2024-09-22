@@ -6,6 +6,14 @@
   <img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/16923160?style=flat&logo=stackoverflow&label=reputation&color=orange">
 </p>
 
+- 🎃 Currentyl working at [**ApprovaSA**](https://www.linkedin.com/company/approvaoficial/)
+
+- 👾 Have I mentioned that I use Vim?
+
+- 🛠️ If you blink, I'll rewrite it
+
+- 🍭 Yeah, I use Vim
+
 <details align="center">
   <summary align="center">
     <u><strong>Stats for Nerds 🤓</strong></u>
