@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🎃 Currently working at [**ApprovaSA**](https://www.linkedin.com/company/approvaoficial/) and majoring in Computer Software Engineering at [Estacio](https://estacio.br/)
+- 🎃 Currently working at [**Approva**](https://www.linkedin.com/company/approvaoficial/) and majoring in Computer Software Engineering at [Estacio](https://estacio.br/)
 
 - 👾 Have I mentioned that I use Arch? What about Vim?
 
