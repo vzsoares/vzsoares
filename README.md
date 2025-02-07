@@ -46,7 +46,7 @@
 [![Storage](https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongo,sqlite)]()
 
 
-## Reach me 🏂:
+## Get in touch 🏂:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinicius-zenha)
 [![StackOverlfow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16923160/visualvim)
