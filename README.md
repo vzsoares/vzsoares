@@ -24,9 +24,9 @@
 
   [![Stats](https://github-readme-streak-stats.herokuapp.com?user=vzsoares&theme=tokyonight)](https://git.io/streak-stats)
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=vzsoares&show_icons=true&theme=github_dark&layout=compact&include_all_commits=true)](https://github.com/vzsoares/github-readme-stats)
+  [![Stats](https://github-stats-extended.vercel.app/api?username=vzsoares&show_icons=true&theme=github_dark&layout=compact&include_all_commits=true)](https://github.com/vzsoares/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzsoares&hide=scss,coffeescript,jupyter%20notebook,CSS,html&exclude_repo=&langs_count=8&layout=compact&theme=github_dark)](https://github.com/vzsoares/github-readme-stats)
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vzsoares&hide=scss,coffeescript,jupyter%20notebook,CSS,html&exclude_repo=&langs_count=8&layout=compact&theme=github_dark)](https://github.com/vzsoares/github-readme-stats)
 
 </details>
 
